@@ -1,10 +1,12 @@
-## Hi there 👋 I'm Shon, 2nd year Industrial Engineering student.
+# Hi there 👋 I'm Shon, 2nd year Industrial Engineering student.
+:bulb: **I'm Seeking to create possibilities out of opportunities.**
+<div align="left">
  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp&logo=linkedin&logoColor=white&amp&link=https://www.linkedin.com/in/shonshchori/)](https://www.linkedin.com/in/shonshchori/)
-  
 [![Gmail Badge](https://img.shields.io/badge/-sshchori100@gmail.com-grey?style=plastic&logo=Gmail&logoColor=red&link=mailto:sshchori100@gmail.com)](mailto:sshchori100@gmail.com)
-  
-  :bulb: **Seeking to create possibilities out of opportunities.**
+</div>
+
+<hr/>
 
 ## About me
 
