@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Shon, 2nd year Industrial Engineering student.
-
-<p dir="auto"><a href="https://www.linkedin.com/in/shonshchori/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;logo=Linkedin&amp;logoColor=white&amp" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shonshchori/" style="max-width: 10%;"></a>
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp&logo=linkedin&logoColor=white&amp&link=https://www.linkedin.com/in/shonshchori/)](https://www.linkedin.com/in/shonshchori/)
   
- [![Gmail Badge](https://img.shields.io/badge/-sshchori100@gmail.com-grey?style=plastic&logo=Gmail&logoColor=red&link=mailto:sshchori100@gmail.com)](mailto:sshchori100@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sshchori100@gmail.com-grey?style=plastic&logo=Gmail&logoColor=red&link=mailto:sshchori100@gmail.com)](mailto:sshchori100@gmail.com)
   
   :bulb: **Seeking to create possibilities out of opportunities.**
 
