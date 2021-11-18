@@ -1,11 +1,10 @@
-### Hi there 👋
+# Hi there 👋 I'm Shon, 2nd year Industrial Engineering student.
 
-**shonshchori/shonshchori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p dir="auto"><a href="https://www.linkedin.com/in/shonshchori/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shonshchori/" style="max-width: 10%;"></a>
 
   :bulb: **Seeking to create possibilities out of opportunities.**
 
-### About me
+## About me
 
 A former IDF officer, creative and motivated with strong analytical abilities and self-learning skills. Experience in team leadership and management under pressure. Multitasker with interpersonal communication and great teamwork skills.
 
