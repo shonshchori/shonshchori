@@ -20,11 +20,11 @@ A former IDF officer, creative and motivated with strong analytical abilities an
  
 - Programming languages : 
  
-  [![Python Badge](https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+  [![Python Badge](https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
  
 - Machine Learning / Deep Learning frameworks :
  
-  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)](https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)
  
 - Backend :
 
