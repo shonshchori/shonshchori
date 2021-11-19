@@ -22,11 +22,15 @@ A former IDF officer, creative and motivated with strong analytical abilities an
  
   [![Python Badge](https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori)](https://github.com/shonshchori)
  
- - Machine Learning / Deep Learning frameworks :
+- Machine Learning / Deep Learning frameworks :
  
-     [![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=jupyter&logoColor=F37626&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+ 
+- Backend :
 
+  [![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+  [![SQLite Badge](https://img.shields.io/badge/-SQLite-white?style=plastic&logo=SQLite&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori)
  
-</div>
+ 
 </div>
   
