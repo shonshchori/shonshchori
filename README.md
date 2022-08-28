@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shon, 2nd year Industrial Engineering student.
+# Hi there 👋 I'm Shon, 3rd year Industrial Engineering student.
 :bulb: **I'm Seeking to create possibilities out of opportunities.**
 <div align="left">
  
