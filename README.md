@@ -20,7 +20,7 @@ An outstanding 3rd year Student of Industrial Engineering (Data Science major), 
  
 - Programming languages : 
  
-  [![Python Badge](https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
+  [![Python Badge](https://img.shields.io/badge/-StudentDatabaseApp-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/studentdbProject)](https://github.com/shonshchori/studentdbProject) [![Python Badge](https://img.shields.io/badge/-PythonHangmanGame-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
  
 - Machine Learning / Deep Learning frameworks :
  
