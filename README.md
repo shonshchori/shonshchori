@@ -10,7 +10,7 @@
 
 A 3rd year Student of Industrial Engineering (Data Science major), creative and motivated with strong analytical and self-learning skills. Experienced in Python, SQL, and other tools, as well as in team leadership and management under pressure. Multitasker with excellent interpersonal communication and great teamwork skills.
 
-These days i'm working as Research Assistant, as part of Machine Learning research, in which we identifying the relationships between musical preferences and personal traits, with ML models such as Hugging Face's NLP models and more.
+These days I'm working as Research Assistant, as part of Machine Learning research, in which we identifying the relationships between musical preferences and personal traits, with ML models such as Hugging Face's NLP models and more.
 
 :mortar_board: Besides the studies, I work on projects to keep developing and extending my knowledge about the data science world.
 
