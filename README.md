@@ -30,7 +30,7 @@ These days I'm working as Research Assistant, as part of Machine Learning resear
  
 - Backend :
 
-  [![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori)
+  [![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori/studentdbProject)
   [![SQLite Badge](https://img.shields.io/badge/-SQLite-white?style=plastic&logo=SQLite&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori)
  
  
