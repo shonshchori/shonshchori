@@ -20,13 +20,15 @@ These days I'm working as Research Assistant, as part of Machine Learning resear
 **Technologies I've been learning and using so far:**
 <div align="left">
  
-- Programming languages : 
- 
-  [![Python Badge](https://img.shields.io/badge/-StudentDatabaseApp-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/studentdbProject)](https://github.com/shonshchori/studentdbProject) [![Python Badge](https://img.shields.io/badge/-PythonHangmanGame-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
+- Programming languages :
+  
+  [![Python Badge](https://img.shields.io/badge/-StudentDatabaseApp-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/studentdbProject)](https://github.com/shonshchori/studentdbProject)
+[![Python Badge](https://img.shields.io/badge/-PythonHangmanGame-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
  
 - Machine Learning / Deep Learning frameworks :
  
-  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)](https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)
+  [![Jupyter Notebook Badge](https://img.shields.io/badge/-PropertiesPricePrediction-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/PropertiesPricePrediction)](https://github.com/shonshchori/PropertiesPricePrediction)
+[![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)](https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)
  
 - Backend :
 
