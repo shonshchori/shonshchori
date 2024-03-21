@@ -4,7 +4,7 @@
  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp&logo=linkedin&logoColor=white&amp&link=https://www.linkedin.com/in/shonshchori/)](https://www.linkedin.com/in/shonshchori/)
 [![Gmail Badge](https://img.shields.io/badge/-sshchori100@gmail.com-grey?style=plastic&logo=Gmail&logoColor=red&link=mailto:sshchori100@gmail.com)](mailto:sshchori100@gmail.com)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fshonshchori.github.io%2F&up_message=Click%20Here&style=social&logo=github&label=My%20Site)
+[![Website](https://img.shields.io/website?url=https://shonshchori.github.io%2F&up_message=Click%20Here&style=social&logo=github&label=My%20Site)](https://shonshchori.github.io/)
 </div>
 
 ### About me
