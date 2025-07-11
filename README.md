@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Shon, 4th year Industrial Engineering student.
-:bulb: **I'm Seeking to create possibilities out of opportunities.**
+# Hi there 👋 I'm Shon, a Business Analyst.**
 <div align="left">
  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp&logo=linkedin&logoColor=white&amp&link=https://www.linkedin.com/in/shonshchori/)](https://www.linkedin.com/in/shonshchori/)
